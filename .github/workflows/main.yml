@@ -36,7 +36,7 @@ jobs:
         POSTGRES_PASSWORD: django_password
         POSTGRES_DB: django_db
         DB_HOST: 127.0.0.1
-        DB_PORT: 5433
+        DB_PORT: 5432
         SECRET_KEY: ${{ secrets.SECRET_KEY }}
         ALLOWED_HOSTS: ${{ secrets.ALLOWED_HOSTS }}
       run: |
