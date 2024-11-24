@@ -1,6 +1,4 @@
 from cats.views import AchievementViewSet, CatViewSet
-# flake8 ругается, если этот локальный импорт поставить
-# ниже I001 isort found an import in the wrong position
 from django.conf import settings
 from django.conf.urls.static import static
 from django.contrib import admin
