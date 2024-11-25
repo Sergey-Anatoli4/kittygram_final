@@ -1,3 +1,5 @@
+![example workflow](https://github.com/Sergey-Anatoli4/kittygram_final/actions/workflows/main.yml/badge.svg)
+
 ### Описание проекта 
 Kittygram - сервис для любителей котиков.
 
